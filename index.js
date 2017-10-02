@@ -33,4 +33,4 @@ function sayHiToGrandma(string) {
 
 }
 
-sayHiToGrandma("hi Grandma")
+sayHiToGrandma("hi grandma")
